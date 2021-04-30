@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @drhinote
+- 👀 I’m interested in cryptocurrency, artificial intelligence, and high performance computing
+- 💞️ I’m looking to collaborate on any project that requires creative and novel implementation soultions.
+- 📫 drhinote@gmail.com
